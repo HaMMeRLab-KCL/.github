@@ -1,4 +1,4 @@
-![hammer banner](imgs/Hammer logo.png)
+![hammer banner](imgs/Hammer_logo.png)
 
 ## HammerLab KCL :hammer:
 
