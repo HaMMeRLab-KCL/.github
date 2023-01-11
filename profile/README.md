@@ -1,4 +1,3 @@
-![hammer banner](imgs/Hammer_logo.png)
 
 ## HammerLab KCL :hammer:
 
